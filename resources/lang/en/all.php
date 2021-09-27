@@ -1,0 +1,23 @@
+<?php
+return [
+    "order" => "Order",
+    "productList" => "Product List",
+    "mobile" => "Mobile",
+    "shipping" => "Shipping Address",
+    "subTotal" => "Sub Total",
+    "deliveryFee" => "Delivery Fee",
+    "discount" => "Discount",
+    "total" => "Total",
+    "checkout" =>"Checkout",
+    "shippingDetails" =>"Shipping Details",
+    "orderDetails" =>"Order  Details",
+    "placeOrder" =>"Place Order",
+    "applyCoupon" =>"Apply Coupon",
+    "login" =>"Login",
+    "loginNow" =>"Login Now",
+    "remember" =>"Remember me",
+    "forgot" =>"Forgot Password?",
+    "click" =>"Click here?",
+    "register" => "Register",
+    "registerNow" => "Register Now",
+];

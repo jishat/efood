@@ -1,0 +1,23 @@
+<?php
+return [
+    "order" => "অর্ডার",
+    "productList" => "পণ্য তালিকা",
+    "mobile" => "মোবাইল",
+    "shipping" => "প্রেরণের ঠিকানা",
+    "subTotal" => "উপ মোট",
+    "deliveryFee" => "ডেলিভারি ফি",
+    "discount" => "ছাড়",
+    "total" => "মোট",
+    "checkout" =>"চেকআউট",
+    "shippingDetails" =>"প্রেরণের বিবরণ",
+    "orderDetails" =>"অর্ডার  বিবরণ",
+    "placeOrder" =>" অর্ডার করুন",
+    "applyCoupon" =>"কুপন প্রয়োগ",
+    "login" => "লগইন",
+    "loginNow" =>"প্রবেশ করুন",
+    "remember" =>" আমাকে মনে কর",
+    "forgot" =>"পাসওয়ার্ড ভুলে গেছেন?",
+    "click" =>"এখানে ক্লিক করুন",
+    "register" => "রেজিষ্টার",
+    "registerNow" => "রেজিষ্টার করুন",
+];
